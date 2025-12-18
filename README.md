@@ -23,6 +23,7 @@ DSA || CP
 | [0162-find-peak-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -160,6 +161,7 @@ DSA || CP
 | [0027-remove-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
