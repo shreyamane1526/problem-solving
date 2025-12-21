@@ -236,18 +236,22 @@ DSA || CP
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
