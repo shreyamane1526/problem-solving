@@ -44,6 +44,7 @@ DSA || CP
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1550-three-consecutive-odds](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1550-three-consecutive-odds) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
