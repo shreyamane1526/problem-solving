@@ -1,31 +1,25 @@
 class Solution {
-    public static void BFS(int[][] isConnected,int n,int vis[],int i){
-        Queue<Integer> q=new ArrayDeque<>();
-        q.add(i);
+    public static void bfs(int start,int isConnected[][],int[] vis){
+        vis[start]=1;
+        ArrayDeque<Integer> q=new ArrayDeque<>();
+        q.add(start);
         while(!q.isEmpty()){
-            int p=q.poll();
-            for(int j=0;j<n;j++){
-                if(j!=p && isConnected[j][p]==1 && vis[j]==0){
-                    vis[j]=1;
-                    q.add(j);
-                }
-                else if(j!=p && isConnected[p][j]==1 && vis[j]==0){
-                    vis[j]=1;
-                    q.add(j);
-                }
+            start=q.poll();
+        for(int i=0;i<isConnected.length;i++){
+            if(vis[i]==0 && isConnected[start][i]==1){
+                vis[i]=1;
+                q.add(i);
             }
+        }
         }
     }
     public int findCircleNum(int[][] isConnected) {
-        int n=isConnected.length;
-        int vis[]=new int[n];
-        Arrays.fill(vis,0);
         int c=0;
-        for(int i=0;i<n;i++){
+        int[] vis=new int[isConnected.length];
+        for(int i=0;i<isConnected.length;i++){
             if(vis[i]==0){
-                vis[i]=1;
+                bfs(i,isConnected,vis);
                 c++;
-                BFS(isConnected,n,vis,i);
             }
         }
         return c;
