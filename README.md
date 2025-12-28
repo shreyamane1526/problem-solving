@@ -45,6 +45,7 @@ DSA || CP
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -247,6 +248,7 @@ DSA || CP
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@ DSA || CP
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
@@ -261,6 +264,7 @@ DSA || CP
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -272,5 +276,6 @@ DSA || CP
 | [0054-spiral-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
