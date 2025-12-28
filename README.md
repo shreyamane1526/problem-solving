@@ -37,6 +37,7 @@ DSA || CP
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
@@ -164,6 +165,7 @@ DSA || CP
 | [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
@@ -253,6 +255,7 @@ DSA || CP
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
@@ -275,6 +278,7 @@ DSA || CP
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
