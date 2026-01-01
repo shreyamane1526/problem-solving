@@ -28,6 +28,7 @@ DSA || CP
 | [0128-longest-consecutive-sequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ DSA || CP
 | [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
