@@ -56,6 +56,7 @@ DSA || CP
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1550-three-consecutive-odds](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1550-three-consecutive-odds) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -267,6 +268,7 @@ DSA || CP
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ DSA || CP
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
 ## Union Find
 |  |
 | ------- |
