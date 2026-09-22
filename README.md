@@ -165,6 +165,7 @@ DSA || CP
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
