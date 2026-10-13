@@ -119,6 +119,7 @@ DSA || CP
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -343,6 +344,7 @@ DSA || CP
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -408,6 +410,7 @@ DSA || CP
 | [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3859-maximum-product-of-two-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
